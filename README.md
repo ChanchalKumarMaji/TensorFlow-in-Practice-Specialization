@@ -1,2 +1,1 @@
-# deeplearning.ai-TensorFlow-Specialization
-deeplearning.ai TensorFlow Specialization
+# TensorFlow in Practice Specialization
