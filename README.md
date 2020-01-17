@@ -1,4 +1,4 @@
-# TensorFlow in Practice
+# TensorFlow
 
 [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 + [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
