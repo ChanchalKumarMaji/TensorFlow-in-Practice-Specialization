@@ -30,3 +30,6 @@
 
 
 <kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Convolutional%20Neural%20Networks%20in%20TensorFlow/Certificate/Certificate.jpg" /></kbd>
