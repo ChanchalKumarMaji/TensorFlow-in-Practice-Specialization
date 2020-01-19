@@ -24,3 +24,6 @@
 
 
 **Instructor** : `Laurence Moroney`
+
+
+![Certificate](/Certificate/Certificate.jpg)
