@@ -33,3 +33,6 @@
 
 
 <kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Convolutional%20Neural%20Networks%20in%20TensorFlow/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Natural%20Language%20Processing%20in%20TensorFlow/Certificate/Certificate.jpg" /></kbd>
