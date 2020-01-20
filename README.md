@@ -17,10 +17,10 @@
   + [Week 3 Quiz](https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Week%203%20Quiz.pdf)
   + [Week 4 Quiz](https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Week%204%20Quiz.pdf)
 + **[Sequences, Time Series and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction)**
-  + [Week 1 Quiz]()
-  + [Week 2 Quiz]()
-  + [Week 3 Quiz]()
-  + [Week 4 Quiz]()
+  + [Week 1 Quiz](https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Sequences%2C%20Time%20Series%20and%20Prediction/Week%201/Week%201%20Quiz.pdf)
+  + [Week 2 Quiz](https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Sequences%2C%20Time%20Series%20and%20Prediction/Week%202/Week%202%20Quiz.pdf)
+  + [Week 3 Quiz](https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Sequences%2C%20Time%20Series%20and%20Prediction/Week%203/Week%203%20Quiz.pdf)
+  + [Week 4 Quiz](https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Sequences%2C%20Time%20Series%20and%20Prediction/Week%204/Week%204%20Quiz.pdf)
 
 
 **Instructor** : `Laurence Moroney`
@@ -36,3 +36,6 @@
 
 
 <kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Natural%20Language%20Processing%20in%20TensorFlow/Certificate/Certificate.jpg" /></kbd>
+
+
+<kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Sequences%2C%20Time%20Series%20and%20Prediction/Certificate/Certificate.jpg" /></kbd>
