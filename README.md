@@ -26,6 +26,9 @@
 **Instructor** : `Laurence Moroney`
 
 
+All course Notebooks can be found [here](https://github.com/lmoroney/dlaicourse).
+
+
 <kbd><img src="https://github.com/ChanchalKumarMaji/TensorFlow-in-Practice-Specialization/blob/master/Certificate/Certificate.jpg" /></kbd>
 
 
